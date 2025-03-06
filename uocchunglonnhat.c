@@ -17,9 +17,6 @@ int gcd(int a, int b)
 }
 int main()
 {
-    // FILE *f;
-    // f = fopen("testC.inp", "r");
-    // f = fopen("testC.out", "w");
     int a,b;
     printf("Nhap a va b: ");
     scanf("%d %d", &a, &b);
