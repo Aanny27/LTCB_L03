@@ -4,10 +4,10 @@
 
 int main()
 {
-    int a, b, c;
+    float a, b, c;
     double delta, x1, x2;
     printf("Nhap a, b, c: ");
-    scanf("%d %d %d", &a, &b, &c);
+    scanf("%f %f %f", &a, &b, &c);
     delta = b*b - 4*a*c;;
     if(delta < 0)
         printf("Phuong trinh vo nghiem\n");
@@ -24,3 +24,4 @@ int main()
     }
     return 0;
 }
+
