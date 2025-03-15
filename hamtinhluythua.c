@@ -18,4 +18,5 @@ int main()
     luythua(x, y);
     printf("%d mu %d = %d",x, y, luythua(x, y));
     return 0;
+    //Aanny
 }
