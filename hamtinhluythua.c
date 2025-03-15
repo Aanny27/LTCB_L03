@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define ll long long
 
-long long luythua(long long x, long long y)
+ll luythua(ll x, ll y)
 {
     int t = 1;
     while(y--)
